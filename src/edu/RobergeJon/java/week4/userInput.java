@@ -1,6 +1,7 @@
 package edu.RobergeJon.java.week4;
 
 public class userInput {
+<<<<<<< HEAD
 	public static void hang(String userGuess) {
 		String newgameMask = "";
 		for (int i = 0; i < word.length(); i++) {
@@ -23,6 +24,8 @@ public class userInput {
 			System.out.println("Correct! You win! The word was " + word);
 		}
 	}
+=======
+>>>>>>> b67bf6aa5c68208b41f39867730d16d2fc5cb3c9
 
 }
 

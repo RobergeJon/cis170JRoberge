@@ -1,6 +1,7 @@
 package edu.RobergeJon.java.week4;
 
 public class applyInput {
+<<<<<<< HEAD
 	
 	 static void hangmanCounter() {
 		
@@ -17,5 +18,7 @@ public class applyInput {
 		}
 	}
 }
+=======
+>>>>>>> b67bf6aa5c68208b41f39867730d16d2fc5cb3c9
 
 }

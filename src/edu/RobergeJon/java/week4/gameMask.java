@@ -1,5 +1,6 @@
 package edu.RobergeJon.java.week4;
 
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class gameMask {
@@ -17,6 +18,31 @@ public class gameMask {
 		}
 		sc.close();
 	}
+=======
+public class gameMask {
+	private String gameWord;
+	
+	
+	public String getGameWord() {
+		return gameWord;
+	}
+	
+	
+	
+	
+	
+
+		public void createMask() {
+		
+			String word = gameWord;
+		
+			for(int i = 0; i < word.length(); i++) {
+			
+				System.out.println("*");
+			}
+		}
+	
+>>>>>>> b67bf6aa5c68208b41f39867730d16d2fc5cb3c9
 		
 }
 
